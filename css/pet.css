@@ -1,13 +1,26 @@
-ul {
-    font-family: helvetica;
-    line-height: 30px;
-    color: black;
-}
 
-body {
-    background-color: lightgrey;
-}
 
+/* body {
+   
+} */
+.container { 
+    background-color: seashell;
+    margin-left: 5%;
+    display: block;
+    padding:20px;
+    
+}
+.darkMode {
+    background-color: black;
+    color: white;
+    margin-left: 5%;
+    display: block;
+    padding:20px;
+}
+button{
+    margin-top: 4%;
+    margin-left: 5%;
+}
 h1 {
     font-family: helvetica;
 }
@@ -18,4 +31,9 @@ h2 {
 
 h3 {
     font-family: helvetica;
+}
+ul {
+    font-family: helvetica;
+    line-height: 30px;
+    color: black;
 }
